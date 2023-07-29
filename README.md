@@ -10,20 +10,3 @@
 
 <br>Welcome to my GitHub portfolio! Here, you'll find a collection of my recent projects showcasing my expertise in building iOS apps and various web applications. I have experience working with different frameworks and technologies to deliver high-quality solutions. Let's dive into the projects:<br><br>iOS Apps - Native Development Doctor Consulting App (Medical Representative) https://apps.apple.com/au/app/rxtro/id1492557987<br><br>App Store Link 360 Meeting Management App https://apps.apple.com/us/app/360-meeting-management/id1481591620?ls=1 https://play.google.com/store/apps/details?id=com.meeting360management<br><br>Ramana Coaching Center App https://apps.apple.com/us/app/id1515216273 https://apps.apple.com/us/app/id1527373266<br><br>Glambu - Dating App for Real Gentlemen https://play.google.com/store/apps/details?id=com.glambu&hl=en https://apps.apple.com/us/app/glambu-dating-app/id1449796157<br>
 
-
-## Websites
-
-https://risemarket.ca/
-<br>
-https://www.littlebaby.com.sg/<br>
-https://www.cozmobox.com.au/<br>
-https://seller.orbitstor.com/<br>
-https://gostor.com/<br>
-https://geeker.co<br>
-https://www.fittereats.com/https://llpregistry.io/https://llpradmin.io/<br>
-
-
-https://bestcorporateevents.com/<br>
-https://stellarairdecorativeventcovers.com/<br>
-https://www.fitterfly.com/<br>
-https://isodiol.com/<br>
