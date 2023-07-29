@@ -1,96 +1,19 @@
-- 👋 Hi, I’m @zaheetdeveloper
-
-PHP JavaScript GraphQL Go Ruby TypeScript Python HTML5 CSS3 Shell Script AWS Azure DigitalOcean Google Cloud Firebase Netlify Vercel .Net Angular Angular.js Ant-Design Apollo-GraphQL Bootstrap Chakra Chart.js Code-Igniter Django DjangoREST Electron.js Express.js FastAPI Fastify Laravel JWT jQuery Gulp Gatsby Flask NPM NestJS Next JS NodeJS NuxtJS Redux React Router React Native React ANDROID IOS Socket.io Semantic UI React TailwindCSS Vue.js Apache Apache Airflow Apache Ant Jenkins Nginx AmazonDynamoDB ApacheCassandra MongoDB Supabase Postgres MySQL Redis MicrosoftSQLServer Adobe After Effects Adobe XD Figma NumPy Pandas LINUX ElasticSearch Postman Confluence Docker Webflow Trello Terraform Swagger
-
-Welcome to my GitHub portfolio! Here, you'll find a collection of my recent projects showcasing my expertise in building iOS apps and various web applications. I have experience working with different frameworks and technologies to deliver high-quality solutions. Let's dive into the projects:
-
-iOS Apps - Native Development
-Doctor Consulting App (Medical Representative)
-https://apps.apple.com/au/app/rxtro/id1492557987
-
-App Store Link 
-360 Meeting Management App
-https://apps.apple.com/us/app/360-meeting-management/id1481591620?ls=1
-https://play.google.com/store/apps/details?id=com.meeting360management
+# 💫 About Me:
+👋 Hi, I’m @zaheetdevelope
 
 
-Ramana Coaching Center App
-https://apps.apple.com/us/app/id1515216273
-https://apps.apple.com/us/app/id1527373266
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=zaheetdeveloper&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=zaheetdeveloper&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaheetdeveloper&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Glambu - Dating App for Real Gentlemen
-https://play.google.com/store/apps/details?id=com.glambu&hl=en
-https://apps.apple.com/us/app/glambu-dating-app/id1449796157
+---
+[![](https://visitcount.itsvg.in/api?id=zaheetdeveloper&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Web Applications
-Rise Market
+<br>Welcome to my GitHub portfolio! Here, you'll find a collection of my recent projects showcasing my expertise in building iOS apps and various web applications. I have experience working with different frameworks and technologies to deliver high-quality solutions. Let's dive into the projects:<br><br>iOS Apps - Native Development Doctor Consulting App (Medical Representative) https://apps.apple.com/au/app/rxtro/id1492557987<br><br>App Store Link 360 Meeting Management App https://apps.apple.com/us/app/360-meeting-management/id1481591620?ls=1 https://play.google.com/store/apps/details?id=com.meeting360management<br><br>Ramana Coaching Center App https://apps.apple.com/us/app/id1515216273 https://apps.apple.com/us/app/id1527373266<br><br>Glambu - Dating App for Real Gentlemen https://play.google.com/store/apps/details?id=com.glambu&hl=en https://apps.apple.com/us/app/glambu-dating-app/id1449796157<br><br>Web Applications Rise Market<br><br>Website Little Baby<br><br>Website Cozmobox<br><br>Website Seller Orbit<br><br>Website GoStor<br><br>Website Geeker<br><br>Website Fittereats<br><br>Website LLP Registry<br><br>Website LLPR Admin<br><br>Website Best Corporate Events<br><br>Website Stellar Air Decorative Vent Covers<br><br>Website Fitterfly<br><br>Website Isodiol<br><br>Website Other Related Projects CommentCore<br><br>Developed a smart AI web app for Instagram and YouTube that provides analytics based on insights and data from logged-in users' posts. Technologies used include Django RESTful API, Celery, AWS, ReactJS (Next), OpenAI APIs, and meta APIs. Rantizo<br><br>Created a smart drone web app and PWA for drone crop spraying pesticides, along with an admin and user-side dashboard to manage deliveries and schedule events. Tech stack involved Django with GraphQL APIs, React (NextJS), AWS, PostgreSQL, and PostGIS. DriftSense<br><br>Developed a software-only solution that utilizes advanced data science to calculate factors affecting spray results for agricultural purposes. The solution determines the optimal spray time, leading to improved yield, cost-effectiveness, and environmental protection. The tech stack employed included Django with GraphQL APIs, React (NextJS), AWS, PostgreSQL, and PostGIS. LLPR<br><br>Implemented an ETL process using Python for major hospitals like Mayo Clinic, John Hopkins, and OandP solutions. GoferCouries<br><br>Contributed to the development of GoferCourier, an innovative and user-friendly marketplace that ensures the best service and price through a bidding and competitive quote process. The tech stack utilized included Laravel, AWS, and MySQL. Technology Stack Backend: Django, Flask, FastAPI, ExpressJS (Node.js), NestJS (Node.js), Laravel (PHP), Ruby on Rails (Ruby)<br><br>Frontend: React, Next.js (React), Angular, AngularJS, Laravel<br><br>Mobile App: React Native, Cordova<br><br>PWA: React-PWA, Angular<br><br>Cloud: AWS, GCP<br><br>I have experience in implementing and managing continuous delivery systems and methodologies on AWS. My expertise extends to containerization tools like EKS, ECS, and Docker Swarm. Additionally, I define and deploy monitoring, metrics, and logging systems on AWS, ensuring highly available, scalable, and self-healing systems. I also focus on infrastructure as code (IaC) operations for time optimization and reusability, adhering to PCI and HIPPA compliance standards.<br><br>Feel free to explore my GitHub repositories for detailed insights into each project. If you have any questions or collaboration opportunities, please reach out to me at zaheet.dev@gmail.com<br><br>Thank you for visiting!
 
-Website
-Little Baby
 
-Website
-Cozmobox
 
-Website
-Seller Orbit
-
-Website
-GoStor
-
-Website
-Geeker
-
-Website
-Fittereats
-
-Website
-LLP Registry
-
-Website
-LLPR Admin
-
-Website
-Best Corporate Events
-
-Website
-Stellar Air Decorative Vent Covers
-
-Website
-Fitterfly
-
-Website
-Isodiol
-
-Website
-Other Related Projects
-CommentCore
-
-Developed a smart AI web app for Instagram and YouTube that provides analytics based on insights and data from logged-in users' posts. Technologies used include Django RESTful API, Celery, AWS, ReactJS (Next), OpenAI APIs, and meta APIs.
-Rantizo
-
-Created a smart drone web app and PWA for drone crop spraying pesticides, along with an admin and user-side dashboard to manage deliveries and schedule events. Tech stack involved Django with GraphQL APIs, React (NextJS), AWS, PostgreSQL, and PostGIS.
-DriftSense
-
-Developed a software-only solution that utilizes advanced data science to calculate factors affecting spray results for agricultural purposes. The solution determines the optimal spray time, leading to improved yield, cost-effectiveness, and environmental protection. The tech stack employed included Django with GraphQL APIs, React (NextJS), AWS, PostgreSQL, and PostGIS.
-LLPR
-
-Implemented an ETL process using Python for major hospitals like Mayo Clinic, John Hopkins, and OandP solutions.
-GoferCouries
-
-Contributed to the development of GoferCourier, an innovative and user-friendly marketplace that ensures the best service and price through a bidding and competitive quote process. The tech stack utilized included Laravel, AWS, and MySQL.
-Technology Stack
-Backend: Django, Flask, FastAPI, ExpressJS (Node.js), NestJS (Node.js), Laravel (PHP), Ruby on Rails (Ruby)
-
-Frontend: React, Next.js (React), Angular, AngularJS, Laravel
-
-Mobile App: React Native, Cordova
-
-PWA: React-PWA, Angular
-
-Cloud: AWS, GCP
-
-I have experience in implementing and managing continuous delivery systems and methodologies on AWS. My expertise extends to containerization tools like EKS, ECS, and Docker Swarm. Additionally, I define and deploy monitoring, metrics, and logging systems on AWS, ensuring highly available, scalable, and self-healing systems. I also focus on infrastructure as code (IaC) operations for time optimization and reusability, adhering to PCI and HIPPA compliance standards.
-
-Feel free to explore my GitHub repositories for detailed insights into each project. If you have any questions or collaboration opportunities, please reach out to me at zaheet.dev@gmail.com
-
-Thank you for visiting!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
