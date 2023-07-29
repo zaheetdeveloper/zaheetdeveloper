@@ -1,13 +1,6 @@
 - 👋 Hi, I’m @zaheetdeveloper
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-zaheetdeveloper/zaheetdeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+PHP JavaScript GraphQL Go Ruby TypeScript Python HTML5 CSS3 Shell Script AWS Azure DigitalOcean Google Cloud Firebase Netlify Vercel .Net Angular Angular.js Ant-Design Apollo-GraphQL Bootstrap Chakra Chart.js Code-Igniter Django DjangoREST Electron.js Express.js FastAPI Fastify Laravel JWT jQuery Gulp Gatsby Flask NPM NestJS Next JS NodeJS NuxtJS Redux React Router React Native React ANDROID IOS Socket.io Semantic UI React TailwindCSS Vue.js Apache Apache Airflow Apache Ant Jenkins Nginx AmazonDynamoDB ApacheCassandra MongoDB Supabase Postgres MySQL Redis MicrosoftSQLServer Adobe After Effects Adobe XD Figma NumPy Pandas LINUX ElasticSearch Postman Confluence Docker Webflow Trello Terraform Swagger
 
 Welcome to my GitHub portfolio! Here, you'll find a collection of my recent projects showcasing my expertise in building iOS apps and various web applications. I have experience working with different frameworks and technologies to deliver high-quality solutions. Let's dive into the projects:
 
